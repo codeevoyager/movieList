@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "title": "Indian",
+        "genre": ["Crime", "Drama", "History"],
+        "duration": "186",
+        "lang": "Tamil",
+        "category": "Movie",
+        "rating": "7.9",
+        "posterUrl": "https://image.tmdb.org/t/p/original/hcSZCA8tEQLaMBaB53FqTlMUCt2.jpg",
+        "year": "1996"
+    },
+    {
+        "id": 1,
+        "title": "Enthiran",
+        "genre": ["Action", "Drama", "Sci-Fi"],
+        "duration": "155",
+        "lang": "Tamil",
+        "category": "Movie",
+        "rating": "7.1",
+        "posterUrl": "https://image.tmdb.org/t/p/original/juSILHimTx8uA79Lm55SPWX80fV.jpg",
+        "year": "2010"
+    },
+    {
+        "id": 2,
+        "title": "Vilangu",
+        "genre": ["Crime", "Thriller"],
+        "duration": "45",
+        "lang": "Tamil",
+        "category": "Series",
+        "rating": "8.4",
+        "posterUrl": "https://image.tmdb.org/t/p/original/4k3GBj2aX7xihYL1QBUwSwSZFml.jpg",
+        "year": "2022"
+    },
+    {
+        "id": 3,
+        "title": "Titanic",
+        "genre": ["Drama", "Romance"],
+        "duration": "195",
+        "lang": "English",
+        "category": "Movie",
+        "rating": "7.8",
+        "posterUrl": "https://image.tmdb.org/t/p/original/vIAm7UDNjGztvUYtDuS0in1VAXg.jpg",
+        "year": "1997"
+    },
+    {
+        "id": 4,
+        "title": "Jurassic Park",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "duration": "127",
+        "lang": "English",
+        "category": "Movie",
+        "rating": "8.2",
+        "posterUrl": "https://image.tmdb.org/t/p/original/oJwNdpeKyOxyaBJ8WEOsDVH5FIq.jpg",
+        "year": "1993"
+    },
+    {
+        "id": 5,
+        "title": "Dark",
+        "genre": ["Crime", "Drama", "Mystery"],
+        "duration": "60",
+        "lang": "German",
+        "category": "Series",
+        "rating": "8.7",
+        "posterUrl": "https://image.tmdb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg",
+        "year": "2017"
+    },
+    {
+        "id": 6,
+        "title": "Dangal",
+        "genre": ["Action", "Biography", "Drama"],
+        "duration": "161",
+        "lang": "Hindi",
+        "category": "Movie",
+        "rating": "8.4",
+        "posterUrl": "https://image.tmdb.org/t/p/original/wsmb8s3BFXlqKVc8PyP6eLYEqvX.jpg",
+        "year": "2016"
+    },
+    {
+        "id": 7,
+        "title": "PK",
+        "genre": ["Comedy", "Drama", "Sci-Fi"],
+        "duration": "153",
+        "lang": "Hindi",
+        "category": "Movie",
+        "rating": "8.1",
+        "posterUrl": "https://image.tmdb.org/t/p/original/7DLVWOKnEgD1RZZV9F2ZeHhmpFY.jpg",
+        "year": "2014"
+    },
+    {
+        "id": 8,
+        "title": "Premam",
+        "genre": ["Comedy", "Drama", "Romance"],
+        "duration": "156",
+        "lang": "Malayalam",
+        "category": "Movie",
+        "rating": "8.3",
+        "posterUrl": "https://image.tmdb.org/t/p/original/yjXvnPPHgMYvmVf2TGShXNKLHTl.jpg",
+        "year": "2015"
+    },
+    {
+        "id": 9,
+        "title": "Hridayam",
+        "genre": ["Drama", "Romance"],
+        "duration": "172",
+        "lang": "Malayalam",
+        "category": "Movie",
+        "rating": "8.1",
+        "posterUrl": "https://image.tmdb.org/t/p/original/ucTlTDDpPB8M6Fbxubm9vl8god1.jpg",
+        "year": "2022"
+    }
+]
