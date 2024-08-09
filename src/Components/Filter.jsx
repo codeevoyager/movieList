@@ -52,7 +52,6 @@ function Filter({onFilterChange}) {
    onFilterChange(filtered);
       };
 
-
   return (
         <div className="filter">
 
